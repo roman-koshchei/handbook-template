@@ -1,4 +1,4 @@
-# Organization Handbook
+# Handbook
 
 Handbook contains useful information for members of the organization. For example, how to configure the environment, tips, tools, technologies.
 

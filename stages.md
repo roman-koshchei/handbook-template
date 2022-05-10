@@ -1,4 +1,4 @@
-# [<](ideas.md) Development stages [>](tools.md)
+# [<](ideas.md)  Project stages  [>](tools.md)
 
 - Technical task
 - Interface prototypes
